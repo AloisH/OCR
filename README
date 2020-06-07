@@ -1,0 +1,13 @@
+README
+
+Projet : OCR Optical Character Recognition
+
+Made for the S3 Project proposed by D.Bouchet and C.Boullay
+
+How to compile:
+go to folder "OCR"
+make
+
+How to execute the software :
+./main
+
